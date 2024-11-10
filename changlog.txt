@@ -1,0 +1,1 @@
+Updated Ui Added dark mode and fixed a couple of bugs!
